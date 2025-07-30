@@ -3,9 +3,9 @@
 This is a simple web app that fetches 15 random artworks from the [Art Institute of Chicago](https://www.artic.edu/) (ARTIC) every time you click the "Randomize" button.
 Each artwork is linked to its page on the ARTIC website where you can read more about it.
 
-<!-- ## Live Demo
+## Live Demo
 
-You can find the web app hosted on Github Pages [here&nearr;]() -->
+You can find the web app hosted on Github Pages [here &nearr;](https://mrnng.github.io/artic/)
 
 ## Screenshots
 
